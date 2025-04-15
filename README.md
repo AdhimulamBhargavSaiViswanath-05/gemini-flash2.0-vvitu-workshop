@@ -1,6 +1,6 @@
-======================================================
-Build With AI: Gemini Flash 2.0 Workshop @ VVITU
-======================================================
+============================================= 
+Build With AI: Gemini Flash 2.0 Workshop @ VVITU 
+=============================================
 
 📅 Date: 15/04/2025  
 🏫 College: VVITU (Vasireddy Venkatadri International Technological University), Nambur, Guntur  
